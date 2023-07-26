@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "323375216616",
+    "project_id": "deneme-b95b0",
+    "storage_bucket": "deneme-b95b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323375216616:android:48a9e8ece53022f8ef965d",
+        "android_client_info": {
+          "package_name": "com.hafidekkn.Auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323375216616-ofpqvhmortmrnd32frdu3ssf60cccckc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hafidekkn.Auth",
+            "certificate_hash": "52b81fd79d37b13e5aec52d25ddc58da3db30275"
+          }
+        },
+        {
+          "client_id": "323375216616-sk5l2s49tpjh7267gqn25r1qbp6amm26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hafidekkn.Auth",
+            "certificate_hash": "c290ff16e1a0d9c148746d6937264e01041c94f9"
+          }
+        },
+        {
+          "client_id": "323375216616-eqebd3d22agbfnmd30j3ms4r9vbp45ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-YX_A38dEohFxRRpy9nTk5CCoSPHfAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323375216616-ep045g9461kv9bfdc0a01urejpj4tmdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
