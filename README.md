@@ -1,12 +1,7 @@
 
 
-
-
-<h1 align="center">Hi 👋, I'm Hafide Kökan</h1>
-<h3 align="center"></h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="hafideveloper" /> </p>
-
+<h1 align="center">Hi 👋, I'm Hafide KÖKAN</h1>
+<h3 align="left">About me:</h3>
 
 - 🔎 Develops software applications with React and React Native technologies.
 - 🏃 Open to learning and development, team player, innovative, solution-oriented and hardworking.
@@ -20,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hafidekkn_)
 
 
-# <h3 align="left">💻 Languages and Tools:</h3>
+# <h3 align="left">Languages and Tools:</h3>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
